@@ -47,12 +47,6 @@ logs/
 /.mvn/
 mvnw
 mvnw.cmd
-# Ignore .env and local configurations
-.env
-application.properties
-application.yml
-application-*.properties
-application-*.yml
 # Exclude database files (H2, SQLite, etc.)
 *.db
 *.sqlite
