@@ -8,6 +8,7 @@ public class ServletsFilterApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ServletsFilterApplication.class, args);
+		System.out.println("ServletsFilterApplication start successfully");
 	}
 
 }
